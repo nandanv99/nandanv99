@@ -7,7 +7,6 @@
     
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandanv99&show_icons=true&theme=transparent)
 
 
 <div style="display: inline_block"><br>
