@@ -4,6 +4,11 @@
   <a href="https://github.com/nandanv99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanv99&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
